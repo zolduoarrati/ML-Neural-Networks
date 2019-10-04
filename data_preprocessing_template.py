@@ -2,7 +2,7 @@
 """
 Created on Thu Oct  3 17:12:06 2019
 
-@author: alamo248
+@author: EZolduoarrati
 """
 # importing libraries
 import numpy as np
